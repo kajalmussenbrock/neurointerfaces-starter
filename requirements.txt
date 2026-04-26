@@ -1,0 +1,4 @@
+muselsl
+pylsl
+numpy
+websockets
