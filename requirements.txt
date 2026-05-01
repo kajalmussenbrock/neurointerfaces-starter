@@ -1,4 +1,4 @@
-muselsl
-pylsl
-numpy
-websockets
+muselsl==2.3.1
+pylsl==1.18.1
+numpy==2.2.6
+websockets==16.0
